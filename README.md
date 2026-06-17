@@ -1,4 +1,4 @@
-# FitFindr — Starter Kit
+# FitFindr — Starter Kit (Ryan DeJong for CodePath)
 
 This starter kit contains everything needed to complete CodePath AI201 Project 2: FitFindr. FitFindr is a multi-tool AI agent that helps a user search secondhand clothing listings, decide how a selected item fits with their wardrobe, and generate a short shareable fit card caption.
 
