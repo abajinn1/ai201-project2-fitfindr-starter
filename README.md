@@ -19,6 +19,7 @@ ai201-project2-fitfindr-starter/
 ├── tools.py                       # Required tools and stretch tools
 ├── agent.py                       # Planning loop, query parsing, session state, and tool orchestration
 ├── app.py                         # Gradio interface and output formatting
+├── style_profile.json             # Saved style preferences for style memory stretch feature
 ├── README.md                      # Project documentation
 └── requirements.txt               # Python dependencies
 ```
